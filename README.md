@@ -32,7 +32,7 @@ In the wearmask.py folder:
 To run the facial recognition system run 'wearmask.py'
 
 ```
-python3 main.py
+python3 wearmask.py
 ```
 
 #### Note
