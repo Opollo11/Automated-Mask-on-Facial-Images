@@ -34,6 +34,11 @@ To run the facial recognition system run 'wearmask.py'
 ```
 python3 wearmask.py
 ```
+### The results were obtained as follows
+
+![WhatsApp Image 2022-10-13 at 22 51 28](https://user-images.githubusercontent.com/88647994/195776224-79f5db64-95e7-43ac-9c9b-5b1164d1c5c8.jpeg)
+![WhatsApp Image 2022-10-14 at 11 43 19](https://user-images.githubusercontent.com/88647994/195776388-8bba082d-7db4-416e-a777-aa73774429fd.jpeg)
+
 
 #### Note
 
