@@ -13,7 +13,7 @@ cd Automated-Mask-on-Facial-Images
 ```
 #### Making Virtual environment for the project
 
-Enter the name for the virtual environment in place of <myenv>
+Enter the name for the virtual environment in place of 'myenv'
 ```
 python3 -m venv <myvenv>
 source <myvenv>/bin/activate
