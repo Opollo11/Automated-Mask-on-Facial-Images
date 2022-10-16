@@ -45,3 +45,5 @@ python3 wearmask.py
 - The variable 'alternate = False' would put mask on every eight image and 'alternate = True' would put mask on alternate images.
 - The variable 'xor = True/False' is for alternating the masking sequence.
 - If you wish to obtain a dataset with 50% masked images, edit line 241 as 'xor = not xor'.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codee0101)](https://github.com/anuraghazra/github-readme-stats)
