@@ -6,6 +6,8 @@
 - Create a dataset of masked images from a dataset containing facial images.
 - Can be used for further training models for face recogition with masks on.
 
+Dataset can be accessed here:
+
 #### Cloning the repository
 ``` 
 git clone https://github.com/Codee0101/Automated-Mask-on-Facial-Images.git
