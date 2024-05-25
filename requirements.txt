@@ -7,7 +7,7 @@ beniget==0.4.1
 blinker==1.4
 Brlapi==0.8.3
 Brotli==1.0.9
-certifi==2022.12.7
+certifi==2023.7.22
 chardet==4.0.0
 chrome-gnome-shell==0.0.0
 click==8.0.3
