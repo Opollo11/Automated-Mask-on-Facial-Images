@@ -25,7 +25,7 @@ distro-info===1.1build1
 duplicity==0.8.21
 fasteners==0.14.1
 filelock==3.6.0
-fonttools==4.29.1
+fonttools==4.43.0
 fs==2.4.12
 future==0.18.2
 gast==0.5.2
